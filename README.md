@@ -1,6 +1,7 @@
 # jianzhi-Offer-Leetcode
 《剑指Offer》与Leetcode主站题目链接对应
 * update：中文版leetcode已发布剑指offer授权的刷题合集：https://leetcode-cn.com/problemset/lcof/
+* 全是英文版的网站列表：https://tangshusen.me/LeetCode/CodingInterview.html
 ## 本帖记录剑指offer在leetcode主站的原题。
 1. 无
 2. 无
